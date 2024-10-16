@@ -1,0 +1,6 @@
+.dataTables_wrapper .dataTables_length select{
+    width: 100px;
+}
+.datatables td {
+    border-bottom: 0.3px solid #ccc
+}
